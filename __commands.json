@@ -1,0 +1,24 @@
+{
+	"commands": [
+		{
+			"name": "Customize commands",
+			"path": "/[YOUR USERNAME]/.github/edit/master/__commands.json",
+			"type": "Custom"
+		},
+		{
+			"name": "Dashboard",
+			"path": "/",
+			"type": "Custom"
+		},
+		{
+			"name": "Classroom",
+			"path": "/github/classroom",
+			"type": "Custom"
+		},
+		{
+			"name": "My Pulls",
+			"path": "/jessrudder/pulls",
+			"type": "Custom"
+		}
+  ]
+}
