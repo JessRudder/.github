@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "PRs - Classroom",
-			"path": "/classroom/jessrudder/pulls",
+			"path": "github/classroom/pulls/jessrudder",
 			"type": "Custom"
 		}
   ]
