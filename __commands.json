@@ -16,8 +16,13 @@
 			"type": "Custom"
 		},
 		{
-			"name": "My Pulls",
-			"path": "/jessrudder/pulls",
+			"name": "PRs - All",
+			"path": "/pulls",
+			"type": "Custom"
+		},
+		{
+			"name": "PRs - Classroom",
+			"path": "/classroom/jessrudder/pulls",
 			"type": "Custom"
 		}
   ]
